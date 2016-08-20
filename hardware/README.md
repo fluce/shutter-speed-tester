@@ -32,7 +32,7 @@ TCRT-5000 should be break into a IR Led and a IR Phototransitor. Don't forget to
 
 The IR Led is the blue component, the phototransistor is the black one.
 
-![](TCRT-5000.png) ![](TCRT-5000L.jpg)
+![](TCRT-5000.png) ![](TCRT-5000.jpg)
 
 For each components, solder each pins at one end of the phone cable. Correctly isolate the soldered pins.
 
