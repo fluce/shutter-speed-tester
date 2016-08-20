@@ -17,12 +17,15 @@
 
 #Implentation
 ![](SHTR_bb.png)
-(grey wires are solder joint on the other side)
+
+(grey wires are solder joints on the other side)
 
 Without MCU board:
+
 ![](bottom.jpg)
 
 With MCU board mounted:
+
 ![](top.jpg)
 
 TCRT-5000 should be break into a IR Led and a IR Phototransitor. Don't forget to mark the Emitter and the Cathode before breaking the plastic case: all pins are the same size.
