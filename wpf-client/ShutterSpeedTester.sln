@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutterSpeedLib", "ShutterSpeedLib\ShutterSpeedLib.csproj", "{515F6C05-02A8-4F14-996D-3A200DF0F4F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutterSpeedTester", "ShutterSpeedTester\ShutterSpeedTester.csproj", "{24FF62AD-0BE1-4B81-81BB-86F160E79FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515F6C05-02A8-4F14-996D-3A200DF0F4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515F6C05-02A8-4F14-996D-3A200DF0F4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515F6C05-02A8-4F14-996D-3A200DF0F4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515F6C05-02A8-4F14-996D-3A200DF0F4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FF62AD-0BE1-4B81-81BB-86F160E79FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FF62AD-0BE1-4B81-81BB-86F160E79FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FF62AD-0BE1-4B81-81BB-86F160E79FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FF62AD-0BE1-4B81-81BB-86F160E79FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

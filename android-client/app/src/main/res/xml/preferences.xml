@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="use_mock_connection"
+        android:title="@string/use_mock_connection"
+        android:summary="@string/use_mock_connection_summ"
+        android:defaultValue="false" />
+</PreferenceScreen>

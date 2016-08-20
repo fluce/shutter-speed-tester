@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shutter Speed Tester</string>
+    <string name="connect_device">Branchez le boitier</string>
+    <string name="connection_failed">Connexion échouée</string>
+    <string name="device_found">Périphérique trouvé</string>
+    <string name="perform_measurement">Effectuez la mesure</string>
+    <string name="no_driver_found">Périphérique non détecté</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="mean">Moyenne</string>
+    <string name="stddev">Ecart-type</string>
+    <string name="use_mock_connection_summ">Utilise une implémentation de démonstration à la place du périphérique</string>
+    <string name="use_mock_connection">Mode démo</string>
+    <string name="title_activity_settings">Paramètres</string>
+</resources>
